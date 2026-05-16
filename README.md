@@ -173,25 +173,6 @@ FilmStudio-OracleDB/
 
 ---
 
-## 📸 Screenshots
-
-### Login Form
-> *(Add screenshot of C# WinForms login here)*
-
-### Oracle SQL Developer — Table Creation
-> *(Add screenshot of CREATE TABLE output here)*
-
-### Query Output — Movie Overview
-> *(Add screenshot of vw_movie_overview result here)*
-
-### Trigger Working — Contract Log
-> *(Add screenshot of contract_log after insert here)*
-
-### Procedure Execution — Movie Summary
-> *(Add screenshot of proc_movie_summary DBMS_OUTPUT here)*
-
----
-
 ## 📚 References
 
 - Elmasri & Navathe — *Fundamentals of Database Systems*, 7th Edition
